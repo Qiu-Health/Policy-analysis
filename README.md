@@ -13,4 +13,4 @@ This repository contains all the original code and source data involved in this 
 
 The three additional CSV files in **'Data'** contain data for China, the United States, and the European Union respectively, each with different policy intervention points (see comments in **'ITSA_Region'** for details).
 
-All work can be run with just a working version of Python. Required packages are mentioned in the code. The output includes both quantitative results of intervention effects and visualization results.
+All code runs with a standard Python installation and completes in ~30 s on a typical laptop. Required packages are mentioned in the code. The output includes both quantitative results of intervention effects and visualization results.
