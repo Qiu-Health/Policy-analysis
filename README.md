@@ -1,9 +1,11 @@
 # Global actions curb PFOS, yet emerging PFAS are on the rise
 
 **##Overview**
+
 This project provides a comprehensive analytical framework for evaluating the effectiveness of policy interventions globally and across specific regions. Using the Interrupted Time Series Analysis (ITSA) method, it quantifies the impact of policy implementation on PFOS concentrations in surface water.
 
 **##Contents**
+
 This repository contains all the original code and computations involved in this study. It includes:
 
 - A set of code **'ITSA_Global'** and data **'global_monthly_cell_PFOS'** for evaluating the effects of global intervention policies
