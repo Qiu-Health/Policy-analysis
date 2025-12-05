@@ -6,7 +6,7 @@ This project provides a comprehensive analytical framework for evaluating the ef
 
 **Contents**
 
-This repository contains all the original code and computations involved in this study. It includes:
+This repository contains all the original code and source data involved in this study. It includes:
 
 - A set of code **'ITSA_Global'** and data **'global_monthly_cell_PFOS'** for evaluating the effects of global intervention policies
 - Code **'ITSA_Region'** for assessing regional policy effects
